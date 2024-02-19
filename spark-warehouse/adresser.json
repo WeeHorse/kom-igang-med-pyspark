@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "gatuadress": "upproret 75E",
+    "ort": "Helsingborg",
+    "postnr": "25000"
+  },
+  {
+    "id": 2,
+    "gatuadress": "toarp 37",
+    "ort": "Lund",
+    "postnr": "22100"
+  },
+  {
+    "id": 3,
+    "gatuadress": "upproret 33",
+    "ort": "Helsingborg",
+    "postnr": "25000"
+  },
+  {
+    "id": 4,
+    "gatuadress": "supgränd 66F",
+    "ort": "Lund",
+    "postnr": "22100"
+  },
+  {
+    "id": 5,
+    "gatuadress": "solhem",
+    "ort": "Degeberga",
+    "postnr": "21230"
+  },
+  {
+    "id": 6,
+    "gatuadress": "stortorget 55",
+    "ort": "Helsingborg",
+    "postnr": "25000"
+  },
+  {
+    "id": 7,
+    "gatuadress": "storgatan 57A",
+    "ort": "Malmö",
+    "postnr": "22050"
+  },
+  {
+    "id": 8,
+    "gatuadress": "kungstorget 49",
+    "ort": "Tomelilla",
+    "postnr": "27300"
+  },
+  {
+    "id": 9,
+    "gatuadress": "upproret 42",
+    "ort": "Malmö",
+    "postnr": "22050"
+  },
+  {
+    "id": 10,
+    "gatuadress": "toarp 2",
+    "ort": "Helsingborg",
+    "postnr": "25000"
+  },
+  {
+    "id": 11,
+    "gatuadress": "nattgränd 4",
+    "ort": "Lund",
+    "postnr": "22100"
+  },
+  {
+    "id": 12,
+    "gatuadress": "nattgränd 39",
+    "ort": "Tomelilla",
+    "postnr": "27300"
+  },
+  {
+    "id": 13,
+    "gatuadress": "upproret 1",
+    "ort": "Skurup",
+    "postnr": "27400"
+  },
+  {
+    "id": 14,
+    "gatuadress": "ullstorp 72E",
+    "ort": "Svedala",
+    "postnr": "23041"
+  },
+  {
+    "id": 15,
+    "gatuadress": "slutet 19B",
+    "ort": "Lund",
+    "postnr": "22100"
+  },
+  {
+    "id": 16,
+    "gatuadress": "bo 47",
+    "ort": "Lund",
+    "postnr": "22100"
+  },
+  {
+    "id": 17,
+    "gatuadress": "spagettiupploppet 32C",
+    "ort": "Malmö",
+    "postnr": "22050"
+  },
+  {
+    "id": 18,
+    "gatuadress": "toarp 57",
+    "ort": "Sjöbo",
+    "postnr": "27500"
+  },
+  {
+    "id": 19,
+    "gatuadress": "storgatan 8",
+    "ort": "Sjöbo",
+    "postnr": "27500"
+  },
+  {
+    "id": 20,
+    "gatuadress": "toarp 9D",
+    "ort": "Skurup",
+    "postnr": "27400"
+  },
+  {
+    "id": 21,
+    "gatuadress": "upproret 11",
+    "ort": "Helsingborg",
+    "postnr": "25000"
+  },
+  {
+    "id": 22,
+    "gatuadress": "byvägen 2",
+    "ort": "Tomelilla",
+    "postnr": "27300"
+  },
+  {
+    "id": 23,
+    "gatuadress": "storgatan 24",
+    "ort": "Svedala",
+    "postnr": "23041"
+  },
+  {
+    "id": 24,
+    "gatuadress": "byvägen 17F",
+    "ort": "Malmö",
+    "postnr": "22050"
+  },
+  {
+    "id": 25,
+    "gatuadress": "upproret 65D",
+    "ort": "Degeberga",
+    "postnr": "21230"
+  },
+  {
+    "id": 26,
+    "gatuadress": "falsterbogatan 12",
+    "ort": "Svedala",
+    "postnr": "23041"
+  },
+  {
+    "id": 27,
+    "gatuadress": "trädgårdsgatan 9",
+    "ort": "Lund",
+    "postnr": "22100"
+  },
+  {
+    "id": 28,
+    "gatuadress": "solhem",
+    "ort": "Helsingborg",
+    "postnr": "25000"
+  },
+  {
+    "id": 29,
+    "gatuadress": "diagonalen 50",
+    "ort": "Sjöbo",
+    "postnr": "27500"
+  },
+  {
+    "id": 30,
+    "gatuadress": "supgränd 37F",
+    "ort": "Tomelilla",
+    "postnr": "27300"
+  },
+  {
+    "id": 31,
+    "gatuadress": "bo 40",
+    "ort": "Skurup",
+    "postnr": "27400"
+  },
+  {
+    "id": 32,
+    "gatuadress": "alabastergränd 70B",
+    "ort": "Svedala",
+    "postnr": "23041"
+  },
+  {
+    "id": 33,
+    "gatuadress": "bo 47",
+    "ort": "Sjöbo",
+    "postnr": "27500"
+  },
+  {
+    "id": 34,
+    "gatuadress": "storgatan 39",
+    "ort": "Degeberga",
+    "postnr": "21230"
+  },
+  {
+    "id": 35,
+    "gatuadress": "diagonalen 69F",
+    "ort": "Helsingborg",
+    "postnr": "25000"
+  },
+  {
+    "id": 36,
+    "gatuadress": "toarp 49",
+    "ort": "Helsingborg",
+    "postnr": "25000"
+  },
+  {
+    "id": 37,
+    "gatuadress": "spagettiupploppet 29",
+    "ort": "Svedala",
+    "postnr": "23041"
+  },
+  {
+    "id": 38,
+    "gatuadress": "byvägen 73B",
+    "ort": "Lund",
+    "postnr": "22100"
+  },
+  {
+    "id": 39,
+    "gatuadress": "narvavägen 52",
+    "ort": "Malmö",
+    "postnr": "22050"
+  },
+  {
+    "id": 40,
+    "gatuadress": "diagonalen 16",
+    "ort": "Svedala",
+    "postnr": "23041"
+  },
+  {
+    "id": 41,
+    "gatuadress": "kungstorget 70",
+    "ort": "Tomelilla",
+    "postnr": "27300"
+  },
+  {
+    "id": 42,
+    "gatuadress": "trädgårdsgatan 59",
+    "ort": "Skurup",
+    "postnr": "27400"
+  },
+  {
+    "id": 43,
+    "gatuadress": "supgränd 43E",
+    "ort": "Helsingborg",
+    "postnr": "25000"
+  },
+  {
+    "id": 44,
+    "gatuadress": "slutet 30",
+    "ort": "Svedala",
+    "postnr": "23041"
+  },
+  {
+    "id": 45,
+    "gatuadress": "kungstorget 15C",
+    "ort": "Svedala",
+    "postnr": "23041"
+  },
+  {
+    "id": 46,
+    "gatuadress": "storgatan 67",
+    "ort": "Skurup",
+    "postnr": "27400"
+  },
+  {
+    "id": 47,
+    "gatuadress": "spagettiupploppet 64",
+    "ort": "Skurup",
+    "postnr": "27400"
+  },
+  {
+    "id": 48,
+    "gatuadress": "ullstorp 7",
+    "ort": "Lund",
+    "postnr": "22100"
+  },
+  {
+    "id": 49,
+    "gatuadress": "slutet 9F",
+    "ort": "Tomelilla",
+    "postnr": "27300"
+  },
+  {
+    "id": 50,
+    "gatuadress": "kungstorget 7B",
+    "ort": "Lund",
+    "postnr": "22100"
+  },
+  {
+    "id": 51,
+    "gatuadress": "narvavägen 24",
+    "ort": "Malmö",
+    "postnr": "22050"
+  },
+  {
+    "id": 52,
+    "gatuadress": "narvavägen 70E",
+    "ort": "Malmö",
+    "postnr": "22050"
+  },
+  {
+    "id": 53,
+    "gatuadress": "alabastergränd 31",
+    "ort": "Malmö",
+    "postnr": "22050"
+  },
+  {
+    "id": 54,
+    "gatuadress": "trädgårdsgatan 19",
+    "ort": "Sjöbo",
+    "postnr": "27500"
+  },
+  {
+    "id": 55,
+    "gatuadress": "solhem 72C",
+    "ort": "Lund",
+    "postnr": "22100"
+  },
+  {
+    "id": 56,
+    "gatuadress": "narvavägen 67",
+    "ort": "Sjöbo",
+    "postnr": "27500"
+  },
+  {
+    "id": 57,
+    "gatuadress": "toarp 35D",
+    "ort": "Skurup",
+    "postnr": "27400"
+  },
+  {
+    "id": 58,
+    "gatuadress": "supgränd 13",
+    "ort": "Svedala",
+    "postnr": "23041"
+  },
+  {
+    "id": 59,
+    "gatuadress": "kungstorget 1",
+    "ort": "Tomelilla",
+    "postnr": "27300"
+  },
+  {
+    "id": 60,
+    "gatuadress": "falsterbogatan 29E",
+    "ort": "Skurup",
+    "postnr": "27400"
+  },
+  {
+    "id": 61,
+    "gatuadress": "trädgårdsgatan 70",
+    "ort": "Malmö",
+    "postnr": "22050"
+  },
+  {
+    "id": 62,
+    "gatuadress": "falsterbogatan 56",
+    "ort": "Helsingborg",
+    "postnr": "25000"
+  },
+  {
+    "id": 63,
+    "gatuadress": "stortorget 57A",
+    "ort": "Malmö",
+    "postnr": "22050"
+  },
+  {
+    "id": 64,
+    "gatuadress": "bo 41",
+    "ort": "Helsingborg",
+    "postnr": "25000"
+  },
+  {
+    "id": 65,
+    "gatuadress": "bo 32",
+    "ort": "Lund",
+    "postnr": "22100"
+  },
+  {
+    "id": 66,
+    "gatuadress": "upproret 28",
+    "ort": "Svedala",
+    "postnr": "23041"
+  },
+  {
+    "id": 67,
+    "gatuadress": "supgränd 20",
+    "ort": "Malmö",
+    "postnr": "22050"
+  },
+  {
+    "id": 68,
+    "gatuadress": "diagonalen 75",
+    "ort": "Sjöbo",
+    "postnr": "27500"
+  },
+  {
+    "id": 69,
+    "gatuadress": "kungstorget 15",
+    "ort": "Helsingborg",
+    "postnr": "25000"
+  },
+  {
+    "id": 70,
+    "gatuadress": "diagonalen 44",
+    "ort": "Lund",
+    "postnr": "22100"
+  },
+  {
+    "id": 71,
+    "gatuadress": "spagettiupploppet 65C",
+    "ort": "Skurup",
+    "postnr": "27400"
+  },
+  {
+    "id": 72,
+    "gatuadress": "falsterbogatan 55",
+    "ort": "Degeberga",
+    "postnr": "21230"
+  },
+  {
+    "id": 73,
+    "gatuadress": "bo 67",
+    "ort": "Svedala",
+    "postnr": "23041"
+  },
+  {
+    "id": 74,
+    "gatuadress": "alabastergränd 34",
+    "ort": "Degeberga",
+    "postnr": "21230"
+  },
+  {
+    "id": 75,
+    "gatuadress": "solhem",
+    "ort": "Lund",
+    "postnr": "22100"
+  },
+  {
+    "id": 76,
+    "gatuadress": "solhem",
+    "ort": "Lund",
+    "postnr": "22100"
+  },
+  {
+    "id": 77,
+    "gatuadress": "narvavägen 29",
+    "ort": "Lund",
+    "postnr": "22100"
+  },
+  {
+    "id": 78,
+    "gatuadress": "supgränd 53",
+    "ort": "Degeberga",
+    "postnr": "21230"
+  },
+  {
+    "id": 79,
+    "gatuadress": "toarp 68D",
+    "ort": "Sjöbo",
+    "postnr": "27500"
+  },
+  {
+    "id": 80,
+    "gatuadress": "stortorget 44",
+    "ort": "Helsingborg",
+    "postnr": "25000"
+  },
+  {
+    "id": 81,
+    "gatuadress": "upproret 45",
+    "ort": "Degeberga",
+    "postnr": "21230"
+  },
+  {
+    "id": 82,
+    "gatuadress": "toarp 49",
+    "ort": "Malmö",
+    "postnr": "22050"
+  },
+  {
+    "id": 83,
+    "gatuadress": "kungstorget 52",
+    "ort": "Degeberga",
+    "postnr": "21230"
+  },
+  {
+    "id": 84,
+    "gatuadress": "storgatan 52",
+    "ort": "Skurup",
+    "postnr": "27400"
+  },
+  {
+    "id": 85,
+    "gatuadress": "trädgårdsgatan 28",
+    "ort": "Degeberga",
+    "postnr": "21230"
+  },
+  {
+    "id": 86,
+    "gatuadress": "toarp 33",
+    "ort": "Lund",
+    "postnr": "22100"
+  },
+  {
+    "id": 87,
+    "gatuadress": "falsterbogatan 51",
+    "ort": "Svedala",
+    "postnr": "23041"
+  },
+  {
+    "id": 88,
+    "gatuadress": "storgatan 47",
+    "ort": "Tomelilla",
+    "postnr": "27300"
+  },
+  {
+    "id": 89,
+    "gatuadress": "ullstorp 18D",
+    "ort": "Degeberga",
+    "postnr": "21230"
+  },
+  {
+    "id": 90,
+    "gatuadress": "ullstorp 65",
+    "ort": "Skurup",
+    "postnr": "27400"
+  },
+  {
+    "id": 91,
+    "gatuadress": "storgatan 6",
+    "ort": "Skurup",
+    "postnr": "27400"
+  },
+  {
+    "id": 92,
+    "gatuadress": "alabastergränd 15",
+    "ort": "Skurup",
+    "postnr": "27400"
+  },
+  {
+    "id": 93,
+    "gatuadress": "toarp 39",
+    "ort": "Svedala",
+    "postnr": "23041"
+  },
+  {
+    "id": 94,
+    "gatuadress": "stortorget 14C",
+    "ort": "Malmö",
+    "postnr": "22050"
+  },
+  {
+    "id": 95,
+    "gatuadress": "bo 65",
+    "ort": "Svedala",
+    "postnr": "23041"
+  },
+  {
+    "id": 96,
+    "gatuadress": "slutet 45B",
+    "ort": "Skurup",
+    "postnr": "27400"
+  },
+  {
+    "id": 97,
+    "gatuadress": "byvägen 28",
+    "ort": "Malmö",
+    "postnr": "22050"
+  },
+  {
+    "id": 98,
+    "gatuadress": "spagettiupploppet 8",
+    "ort": "Lund",
+    "postnr": "22100"
+  },
+  {
+    "id": 99,
+    "gatuadress": "falsterbogatan 30",
+    "ort": "Lund",
+    "postnr": "22100"
+  },
+  {
+    "id": 100,
+    "gatuadress": "byvägen 10",
+    "ort": "Sjöbo",
+    "postnr": "27500"
+  },
+  {
+    "id": 101,
+    "gatuadress": "diagonalen 52",
+    "ort": "Lund",
+    "postnr": "22100"
+  },
+  {
+    "id": 102,
+    "gatuadress": "diagonalen 30",
+    "ort": "Degeberga",
+    "postnr": "21230"
+  },
+  {
+    "id": 103,
+    "gatuadress": "upproret 4",
+    "ort": "Degeberga",
+    "postnr": "21230"
+  },
+  {
+    "id": 104,
+    "gatuadress": "falsterbogatan 67B",
+    "ort": "Skurup",
+    "postnr": "27400"
+  },
+  {
+    "id": 105,
+    "gatuadress": "alabastergränd 12",
+    "ort": "Helsingborg",
+    "postnr": "25000"
+  },
+  {
+    "id": 106,
+    "gatuadress": "bo 11",
+    "ort": "Svedala",
+    "postnr": "23041"
+  },
+  {
+    "id": 107,
+    "gatuadress": "alabastergränd 42",
+    "ort": "Skurup",
+    "postnr": "27400"
+  },
+  {
+    "id": 108,
+    "gatuadress": "stortorget 41C",
+    "ort": "Svedala",
+    "postnr": "23041"
+  },
+  {
+    "id": 109,
+    "gatuadress": "slutet 65D",
+    "ort": "Svedala",
+    "postnr": "23041"
+  },
+  {
+    "id": 110,
+    "gatuadress": "toarp 25A",
+    "ort": "Lund",
+    "postnr": "22100"
+  },
+  {
+    "id": 111,
+    "gatuadress": "ullstorp 56",
+    "ort": "Tomelilla",
+    "postnr": "27300"
+  },
+  {
+    "id": 112,
+    "gatuadress": "ullstorp 8",
+    "ort": "Lund",
+    "postnr": "22100"
+  },
+  {
+    "id": 113,
+    "gatuadress": "spagettiupploppet 62",
+    "ort": "Helsingborg",
+    "postnr": "25000"
+  },
+  {
+    "id": 114,
+    "gatuadress": "falsterbogatan 74",
+    "ort": "Skurup",
+    "postnr": "27400"
+  },
+  {
+    "id": 115,
+    "gatuadress": "nattgränd 31",
+    "ort": "Sjöbo",
+    "postnr": "27500"
+  },
+  {
+    "id": 116,
+    "gatuadress": "stortorget 2F",
+    "ort": "Malmö",
+    "postnr": "22050"
+  },
+  {
+    "id": 117,
+    "gatuadress": "trädgårdsgatan 41",
+    "ort": "Malmö",
+    "postnr": "22050"
+  },
+  {
+    "id": 118,
+    "gatuadress": "bo 33",
+    "ort": "Tomelilla",
+    "postnr": "27300"
+  },
+  {
+    "id": 119,
+    "gatuadress": "bo 62",
+    "ort": "Helsingborg",
+    "postnr": "25000"
+  },
+  {
+    "id": 120,
+    "gatuadress": "diagonalen 40",
+    "ort": "Degeberga",
+    "postnr": "21230"
+  },
+  {
+    "id": 121,
+    "gatuadress": "storgatan 39C",
+    "ort": "Svedala",
+    "postnr": "23041"
+  },
+  {
+    "id": 122,
+    "gatuadress": "kungstorget 6",
+    "ort": "Tomelilla",
+    "postnr": "27300"
+  },
+  {
+    "id": 123,
+    "gatuadress": "spagettiupploppet 15",
+    "ort": "Tomelilla",
+    "postnr": "27300"
+  },
+  {
+    "id": 124,
+    "gatuadress": "ullstorp 27",
+    "ort": "Tomelilla",
+    "postnr": "27300"
+  },
+  {
+    "id": 125,
+    "gatuadress": "falsterbogatan 25",
+    "ort": "Lund",
+    "postnr": "22100"
+  },
+  {
+    "id": 126,
+    "gatuadress": "slutet 52D",
+    "ort": "Lund",
+    "postnr": "22100"
+  },
+  {
+    "id": 127,
+    "gatuadress": "slutet 13",
+    "ort": "Skurup",
+    "postnr": "27400"
+  },
+  {
+    "id": 128,
+    "gatuadress": "supgränd 40",
+    "ort": "Lund",
+    "postnr": "22100"
+  },
+  {
+    "id": 129,
+    "gatuadress": "narvavägen 55",
+    "ort": "Helsingborg",
+    "postnr": "25000"
+  },
+  {
+    "id": 130,
+    "gatuadress": "slutet 52",
+    "ort": "Helsingborg",
+    "postnr": "25000"
+  },
+  {
+    "id": 131,
+    "gatuadress": "trädgårdsgatan 57",
+    "ort": "Malmö",
+    "postnr": "22050"
+  },
+  {
+    "id": 132,
+    "gatuadress": "bo 20",
+    "ort": "Sjöbo",
+    "postnr": "27500"
+  },
+  {
+    "id": 133,
+    "gatuadress": "spagettiupploppet 39",
+    "ort": "Lund",
+    "postnr": "22100"
+  },
+  {
+    "id": 134,
+    "gatuadress": "kungstorget 23",
+    "ort": "Helsingborg",
+    "postnr": "25000"
+  },
+  {
+    "id": 135,
+    "gatuadress": "alabastergränd 7",
+    "ort": "Skurup",
+    "postnr": "27400"
+  },
+  {
+    "id": 136,
+    "gatuadress": "storgatan 2",
+    "ort": "Lund",
+    "postnr": "22100"
+  },
+  {
+    "id": 137,
+    "gatuadress": "spagettiupploppet 15",
+    "ort": "Svedala",
+    "postnr": "23041"
+  },
+  {
+    "id": 138,
+    "gatuadress": "spagettiupploppet 66C",
+    "ort": "Lund",
+    "postnr": "22100"
+  },
+  {
+    "id": 139,
+    "gatuadress": "bo 71",
+    "ort": "Skurup",
+    "postnr": "27400"
+  },
+  {
+    "id": 140,
+    "gatuadress": "solhem 42E",
+    "ort": "Svedala",
+    "postnr": "23041"
+  },
+  {
+    "id": 141,
+    "gatuadress": "byvägen 27",
+    "ort": "Sjöbo",
+    "postnr": "27500"
+  },
+  {
+    "id": 142,
+    "gatuadress": "solhem",
+    "ort": "Skurup",
+    "postnr": "27400"
+  },
+  {
+    "id": 143,
+    "gatuadress": "nattgränd 32",
+    "ort": "Malmö",
+    "postnr": "22050"
+  },
+  {
+    "id": 144,
+    "gatuadress": "byvägen 23F",
+    "ort": "Tomelilla",
+    "postnr": "27300"
+  },
+  {
+    "id": 145,
+    "gatuadress": "alabastergränd 70",
+    "ort": "Sjöbo",
+    "postnr": "27500"
+  },
+  {
+    "id": 146,
+    "gatuadress": "kungstorget 7",
+    "ort": "Skurup",
+    "postnr": "27400"
+  },
+  {
+    "id": 147,
+    "gatuadress": "narvavägen 15",
+    "ort": "Sjöbo",
+    "postnr": "27500"
+  },
+  {
+    "id": 148,
+    "gatuadress": "falsterbogatan 48",
+    "ort": "Malmö",
+    "postnr": "22050"
+  },
+  {
+    "id": 149,
+    "gatuadress": "solhem 13B",
+    "ort": "Skurup",
+    "postnr": "27400"
+  },
+  {
+    "id": 150,
+    "gatuadress": "nattgränd 75",
+    "ort": "Malmö",
+    "postnr": "22050"
+  },
+  {
+    "id": 151,
+    "gatuadress": "slutet 16",
+    "ort": "Svedala",
+    "postnr": "23041"
+  },
+  {
+    "id": 152,
+    "gatuadress": "nattgränd 25D",
+    "ort": "Degeberga",
+    "postnr": "21230"
+  },
+  {
+    "id": 153,
+    "gatuadress": "nattgränd 18",
+    "ort": "Lund",
+    "postnr": "22100"
+  },
+  {
+    "id": 154,
+    "gatuadress": "falsterbogatan 18F",
+    "ort": "Lund",
+    "postnr": "22100"
+  },
+  {
+    "id": 155,
+    "gatuadress": "upproret 31",
+    "ort": "Svedala",
+    "postnr": "23041"
+  },
+  {
+    "id": 156,
+    "gatuadress": "stortorget 9",
+    "ort": "Tomelilla",
+    "postnr": "27300"
+  },
+  {
+    "id": 157,
+    "gatuadress": "kungstorget 11D",
+    "ort": "Sjöbo",
+    "postnr": "27500"
+  },
+  {
+    "id": 158,
+    "gatuadress": "toarp 22",
+    "ort": "Sjöbo",
+    "postnr": "27500"
+  },
+  {
+    "id": 159,
+    "gatuadress": "slutet 60",
+    "ort": "Lund",
+    "postnr": "22100"
+  },
+  {
+    "id": 160,
+    "gatuadress": "kungstorget 44",
+    "ort": "Sjöbo",
+    "postnr": "27500"
+  },
+  {
+    "id": 161,
+    "gatuadress": "narvavägen 72C",
+    "ort": "Sjöbo",
+    "postnr": "27500"
+  },
+  {
+    "id": 162,
+    "gatuadress": "toarp 9B",
+    "ort": "Sjöbo",
+    "postnr": "27500"
+  },
+  {
+    "id": 163,
+    "gatuadress": "ullstorp 61D",
+    "ort": "Degeberga",
+    "postnr": "21230"
+  },
+  {
+    "id": 164,
+    "gatuadress": "kungstorget 55",
+    "ort": "Helsingborg",
+    "postnr": "25000"
+  },
+  {
+    "id": 165,
+    "gatuadress": "ullstorp 63",
+    "ort": "Degeberga",
+    "postnr": "21230"
+  },
+  {
+    "id": 166,
+    "gatuadress": "slutet 18",
+    "ort": "Malmö",
+    "postnr": "22050"
+  },
+  {
+    "id": 167,
+    "gatuadress": "bo 72",
+    "ort": "Lund",
+    "postnr": "22100"
+  },
+  {
+    "id": 168,
+    "gatuadress": "nattgränd 31",
+    "ort": "Skurup",
+    "postnr": "27400"
+  },
+  {
+    "id": 169,
+    "gatuadress": "falsterbogatan 75",
+    "ort": "Lund",
+    "postnr": "22100"
+  },
+  {
+    "id": 170,
+    "gatuadress": "byvägen 67",
+    "ort": "Malmö",
+    "postnr": "22050"
+  },
+  {
+    "id": 171,
+    "gatuadress": "bo 40F",
+    "ort": "Lund",
+    "postnr": "22100"
+  },
+  {
+    "id": 172,
+    "gatuadress": "ullstorp 69E",
+    "ort": "Sjöbo",
+    "postnr": "27500"
+  },
+  {
+    "id": 173,
+    "gatuadress": "storgatan 44",
+    "ort": "Skurup",
+    "postnr": "27400"
+  },
+  {
+    "id": 174,
+    "gatuadress": "supgränd 30",
+    "ort": "Tomelilla",
+    "postnr": "27300"
+  },
+  {
+    "id": 175,
+    "gatuadress": "trädgårdsgatan 28B",
+    "ort": "Malmö",
+    "postnr": "22050"
+  },
+  {
+    "id": 176,
+    "gatuadress": "falsterbogatan 6",
+    "ort": "Tomelilla",
+    "postnr": "27300"
+  },
+  {
+    "id": 177,
+    "gatuadress": "toarp 27C",
+    "ort": "Malmö",
+    "postnr": "22050"
+  },
+  {
+    "id": 178,
+    "gatuadress": "alabastergränd 46F",
+    "ort": "Svedala",
+    "postnr": "23041"
+  },
+  {
+    "id": 179,
+    "gatuadress": "diagonalen 24",
+    "ort": "Malmö",
+    "postnr": "22050"
+  },
+  {
+    "id": 180,
+    "gatuadress": "alabastergränd 34",
+    "ort": "Lund",
+    "postnr": "22100"
+  },
+  {
+    "id": 181,
+    "gatuadress": "bo 30E",
+    "ort": "Svedala",
+    "postnr": "23041"
+  },
+  {
+    "id": 182,
+    "gatuadress": "alabastergränd 24A",
+    "ort": "Tomelilla",
+    "postnr": "27300"
+  },
+  {
+    "id": 183,
+    "gatuadress": "ullstorp 29",
+    "ort": "Svedala",
+    "postnr": "23041"
+  },
+  {
+    "id": 184,
+    "gatuadress": "ullstorp 51",
+    "ort": "Tomelilla",
+    "postnr": "27300"
+  },
+  {
+    "id": 185,
+    "gatuadress": "stortorget 7F",
+    "ort": "Degeberga",
+    "postnr": "21230"
+  },
+  {
+    "id": 186,
+    "gatuadress": "kungstorget 59A",
+    "ort": "Svedala",
+    "postnr": "23041"
+  },
+  {
+    "id": 187,
+    "gatuadress": "falsterbogatan 65",
+    "ort": "Svedala",
+    "postnr": "23041"
+  },
+  {
+    "id": 188,
+    "gatuadress": "ullstorp 73",
+    "ort": "Lund",
+    "postnr": "22100"
+  },
+  {
+    "id": 189,
+    "gatuadress": "byvägen 20A",
+    "ort": "Skurup",
+    "postnr": "27400"
+  },
+  {
+    "id": 190,
+    "gatuadress": "byvägen 19",
+    "ort": "Svedala",
+    "postnr": "23041"
+  },
+  {
+    "id": 191,
+    "gatuadress": "alabastergränd 35",
+    "ort": "Lund",
+    "postnr": "22100"
+  },
+  {
+    "id": 192,
+    "gatuadress": "alabastergränd 72D",
+    "ort": "Helsingborg",
+    "postnr": "25000"
+  },
+  {
+    "id": 193,
+    "gatuadress": "bo 29B",
+    "ort": "Sjöbo",
+    "postnr": "27500"
+  },
+  {
+    "id": 194,
+    "gatuadress": "narvavägen 36",
+    "ort": "Degeberga",
+    "postnr": "21230"
+  },
+  {
+    "id": 195,
+    "gatuadress": "ullstorp 73",
+    "ort": "Sjöbo",
+    "postnr": "27500"
+  },
+  {
+    "id": 196,
+    "gatuadress": "alabastergränd 36",
+    "ort": "Lund",
+    "postnr": "22100"
+  },
+  {
+    "id": 197,
+    "gatuadress": "kungstorget 33",
+    "ort": "Svedala",
+    "postnr": "23041"
+  },
+  {
+    "id": 198,
+    "gatuadress": "kungstorget 9",
+    "ort": "Tomelilla",
+    "postnr": "27300"
+  },
+  {
+    "id": 199,
+    "gatuadress": "upproret 20B",
+    "ort": "Svedala",
+    "postnr": "23041"
+  },
+  {
+    "id": 200,
+    "gatuadress": "nattgränd 29",
+    "ort": "Sjöbo",
+    "postnr": "27500"
+  }
+]
